@@ -15,7 +15,11 @@ import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 
 import lombok.Data;
-
+/**
+ * 
+ * @author Kalpana
+ *
+ */
 @Data
 @Entity
 public class Customer {

@@ -1,5 +1,10 @@
 package com.landg.customers.exception;
 
+/**
+ * 
+ * @author Kalpana
+ *
+ */
 public class CustomerNotFoundException extends RuntimeException {
 	
 	/**
